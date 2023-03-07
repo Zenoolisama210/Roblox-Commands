@@ -8,11 +8,11 @@ local Version = "1.6 WIP"
 --Players who can use commands (UserIDs work too)
 local AdminList = {
 	--Level 1 admins (All commands)
-	[1] = {"Haggie125","Player1"},
+	[1] = {"olidragon210","Player1"},
 	--Level 2 admins (All non-global commands)
-	[2] = {},
+	[2] = {olidragon210","Player1},
 	--Level 3 admins (Only fun commands)
-	[3] = {},
+	[3] = {olidragon210","Player1},
 	
 	--Commands with level 4+ can be used by anyone --ToDo
 }
